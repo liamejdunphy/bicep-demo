@@ -1,5 +1,5 @@
 $resourceGroupName = '' # TODO: Fill in parameter value
-$templateFile = './azuredeploy.json'
+$templateFile = './main.bicep'
 
 az deployment group create `
     --resource-group $resourceGroupName `
