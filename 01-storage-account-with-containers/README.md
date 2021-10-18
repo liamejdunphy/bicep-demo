@@ -1,4 +1,4 @@
-# 00-hello-world
+# 01--world
 
 This demo is a simple "Hello, World!" example. We initially setup the files to deploy using the traditional ARM method, and then convert them to their Bicep equivalent.
 
