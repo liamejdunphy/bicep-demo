@@ -1,6 +1,10 @@
-# 01--world
+# 01-resource-basics
 
-This demo is a simple "Hello, World!" example. We initially setup the files to deploy using the traditional ARM method, and then convert them to their Bicep equivalent.
+This demo walks through a number of simple concepts in Bicep relating to resources, namely:
+
+- 00-main: Setting Resource Type / Version, Setting Basic Resource Values (Name, Location, etc.)
+- 01-main: Using Parameters in Bicep Files, Deploying Child Resources
+- 02-main: Conditional Deployment, Setting Resource Identities
 
 ## Steps
 
